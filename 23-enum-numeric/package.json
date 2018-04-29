@@ -1,0 +1,27 @@
+{
+  "name": "typescript-basics-seed",
+  "version": "1.0.0",
+  "description": "Seed for TypeScript and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltimateAngular/typescript-basics-seed.git"
+  },
+  "keywords": ["typescript"],
+  "devDependencies": {
+    "awesome-typescript-loader": "3.4.1",
+    "typescript": "2.6.2",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7"
+  },
+  "author": "Ultimate Angular",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltimateAngular/typescript-basics-seed/issues"
+  },
+  "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme"
+}

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "./@types",
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["dom", "es6"],
+    "outDir": "dist",
+    "typeRoots": ["src/@types", "node_modules/@types"]
+  }
+}

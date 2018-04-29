@@ -1,0 +1,14 @@
+{
+  "name": "typescript-masterclass-seed",
+  "author": "Ultimate Angular",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "3.4.1",
+    "typescript": "2.8.1",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7"
+  }
+}

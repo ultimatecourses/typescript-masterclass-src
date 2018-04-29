@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es6", "dom"],
+    "module": "commonjs",
+    "outDir": "dist"
+    // "traceResolution": true
+    // "diagnostics": true
+    // "listFiles": true
+    // "listEmittedFiles": true
+    // "pretty": true
+  }
+}
